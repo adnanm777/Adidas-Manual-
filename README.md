@@ -76,7 +76,7 @@ The test plan includes:
 | 📝 Test Plan Creation & Mind Map | July 02, 2025 |
 | 🖊️ Test Scenario Preparation | July 02, 2025 |
 | 🛠️ Test Case Execution | July 03 , 2025 |
-| 🐞 Bug Reporting | July 02-04, 2025 |
+| 🐞 Bug Reporting | July 03-04, 2025 |
 | 📑 Test Summary Report | July 05 2025 |
 
 ## 📑 Test Deliverables
