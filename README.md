@@ -10,8 +10,8 @@ This repository contains the test plan and related documentation for the **Adida
 ## 📂 Project Details
 - **📝 Project Name:** Adidas Demo Web Application
 - **👤 Prepared By:** Mohammad Adnan
-- **📅 Start Date:** February 25, 2025
-- **📅 End Date:** February 28, 2025
+- **📅 Start Date:** July 02, 2025
+- **📅 End Date:**   July 05, 2025
 
 ## 📖 Table of Contents
 1. [📌 Introduction](#introduction)
@@ -73,11 +73,11 @@ The test plan includes:
 ## 📆 Test Schedule
 | 📌 Task | 📅 Date |
 |------|------|
-| 📝 Test Plan Creation & Mind Map | Feb 25, 2025 |
-| 🖊️ Test Scenario Preparation | Feb 25, 2025 |
-| 🛠️ Test Case Execution | Feb 26-27, 2025 |
-| 🐞 Bug Reporting | Feb 26-27, 2025 |
-| 📑 Test Summary Report | Feb 28, 2025 |
+| 📝 Test Plan Creation & Mind Map | July 02, 2025 |
+| 🖊️ Test Scenario Preparation | July 02, 2025 |
+| 🛠️ Test Case Execution | July 03 , 2025 |
+| 🐞 Bug Reporting | July 02-04, 2025 |
+| 📑 Test Summary Report | July 05 2025 |
 
 ## 📑 Test Deliverables
 - 📄 **Requirement Traceability Matrix (RTM)**
