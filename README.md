@@ -1,5 +1,3 @@
-# Adidas-Manual-
-
 # Adidas-Manual-Project
 
 #  Adidas Demo Web Application 
